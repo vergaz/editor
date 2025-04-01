@@ -1,0 +1,9 @@
+Flask==2.0.2
+pytesseract==0.3.8
+opencv-python==4.5.3.56
+pillow==8.3.2
+numpy==1.21.1
+insightface==0.2.1
+pywhatkit==5.2
+fonttools==4.28.5
+
